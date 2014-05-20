@@ -1,4 +1,9 @@
-git_training
-============
+# Readme for git_training
 
-Git training
+---
+
+## Objectives
+
+* Learn about using
+* Local vs Remote
+
